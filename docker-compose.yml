@@ -1,0 +1,22 @@
+services:
+  queuecraft:
+    build: .
+    container_name: queuecraft
+    restart: unless-stopped
+    ports:
+      - "5324:5324"
+    environment:
+      - PORT=5324
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-change-me-now}
+      - BASE_URL=${BASE_URL:-}
+      - SMTP_HOST=${SMTP_HOST:-}
+      - SMTP_PORT=${SMTP_PORT:-587}
+      - SMTP_SECURE=${SMTP_SECURE:-false}
+      - SMTP_USER=${SMTP_USER:-}
+      - SMTP_PASS=${SMTP_PASS:-}
+      - SMTP_FROM=${SMTP_FROM:-}
+    volumes:
+      - queuecraft-data:/app/data
+
+volumes:
+  queuecraft-data:

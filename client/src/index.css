@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #0b0b12;
+  --color-panel: #14141f;
+  --color-panel2: #1b1b2a;
+  --color-line: #2a2a3a;
+  --color-accent: #7c5cff;
+  --color-accent-soft: #9d8cff;
+}
+
+body {
+  background: var(--color-ink);
+  color: #e6e6f0;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+}
+
+::selection { background: #7c5cff55; }
