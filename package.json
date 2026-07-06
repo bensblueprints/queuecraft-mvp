@@ -43,7 +43,11 @@
       "oneClick": true,
       "perMachine": false,
       "deleteAppDataOnUninstall": false
-    }
+    },
+    "asarUnpack": [
+      "vendor/**"
+    ],
+    "npmRebuild": false
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.1.0",
