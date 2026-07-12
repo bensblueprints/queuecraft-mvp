@@ -79,7 +79,7 @@ A typical waitlist runs 3–12 months before launch. Queuecraft pays for itself 
 
 Don't want to touch a terminal? The packaged Windows installer (plus updates) is a one-time purchase:
 
-**→ [Get Queuecraft on Whop](https://whop.com/onetime-suite)**
+**→ [Get Queuecraft on Whop](https://whop.com/benjisaiempire/queuecraft)**
 
 The source here is MIT and always will be — the paid version is pure convenience.
 
