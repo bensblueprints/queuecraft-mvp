@@ -1,5 +1,9 @@
 # Queuecraft
 
+## Demo
+
+VIDEO-PLACEHOLDER
+
 **Self-hosted viral waitlist with referral queue-jumping. Pay once. Own it forever. No subscription.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-8b5cf6.svg)](LICENSE)
