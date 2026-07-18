@@ -2,7 +2,11 @@
 
 ## Demo
 
-VIDEO-PLACEHOLDER
+
+
+https://github.com/user-attachments/assets/ae8a54bb-decf-4bd2-9b45-1cac7c6b63a1
+
+
 
 **Self-hosted viral waitlist with referral queue-jumping. Pay once. Own it forever. No subscription.**
 
